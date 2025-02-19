@@ -1,0 +1,12 @@
+Para agregar correctamente los audios e imagenes, se necesitara crear la siguiente estructura de carpetas:
+
+assets/
+├── audios/
+│   ├── español/
+│   │   ├── animales_abeja.mp3
+│   ├── mixteco-variante1/
+│   │   ├── animales_abeja.mp3
+├── database/
+│   ├── Tu'unSaviDB.db
+├── imagenes/
+│   ├── animales_abeja.png
